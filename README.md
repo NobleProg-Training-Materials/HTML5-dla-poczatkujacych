@@ -19,17 +19,26 @@ Silniki wyświetlania stron internetowych
 * Edytory kodu mają dodatkowe progamy, w których wpisujemy tylko wartości a resztę kodu wypełnia automat.
 
 ## What We Do
-'''Stworzymy stronę WWW'''
+** Stworzymy stronę WWW **
 
-[[File:000-index.jpg |300px]]
+(https://training-course-material.com/images/e/e3/000-index.jpg)
+
 [[File:001-wino.jpg |300px]]
+
 [[File:002-proceswinifikacji.jpg |300px]]
+
 [[File:003-podzialwin.jpg |300px]]
+
 [[File:004-historia.jpg |300px]]
+
 [[File:005-glowniproducenci.jpg |300px]]
+
 [[File:006-ciekawostki.jpg |300px]]
+
 [[File:007-linki.jpg |300px]]
+
 [[File:008-kontakt.jpg |300px]]
+
 [[File:009-av.jpg |300px]]
 
 ## HTML Document Structure
