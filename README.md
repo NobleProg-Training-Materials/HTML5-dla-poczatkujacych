@@ -40,7 +40,7 @@ Silniki wyświetlania stron internetowych
 [[File:009-av.jpg |300px]]
 
 ## HTML Document Structure
-```
+```html
   <!DOCTYPE HTML>
   <html>
    <head>
@@ -55,18 +55,20 @@ Silniki wyświetlania stron internetowych
 
 ### HTML Tag (P)
 **Paragraf - (Akapit).** Służy do zaznaczania akapitów.
-<pre><p>Tekst ...</p></pre>
+```html
+<p>Tekst ...</p>
+```
 
 ### HTML Tag (H1,...,H6)
 **Hedline - (Nagłówek).** Zaznaczamy tytuł rozdziału, podrozdzialu poziomu od 1 do 6.
-<pre>
+```html
  <h1>Tytuł</h1>
  <h2>Rozdział</h2>
  <h3>Podrozdział</h3>
  ...
  <h6>... </h6>
-</pre>
-<br />
+```
+
 
 ### HTML Tag (I, B, EM, STRONG)
 **Italic (pochylony).**
@@ -77,12 +79,12 @@ Silniki wyświetlania stron internetowych
 
 **Strong (mocne wyróznienie tekstu pogrubienie).**
 
-<pre>
+```
  <i>tekst pochylony</i>
  <b>tekst pogrubiony</b>
  <em>tekst wyrózniony</em>
  <strong>tekst mocno wyrózniony</strong>
-</pre>
+```
 
 <i>tekst pochylony</i>
 
@@ -97,13 +99,12 @@ Silniki wyświetlania stron internetowych
 **Blockquote (Wcięcie).**
 
 **Q (Cytat).** 
-<pre>
-</pre>
+
 
 ### HTML Tag (OL, LI)
 **Ordered List (Lista numerowana).**
 
-<pre>
+```html
  <ol>
    <li>numeracja nadrzedna</li>
     <ol>
@@ -112,7 +113,7 @@ Silniki wyświetlania stron internetowych
     </ol>
    <li>numeracja nadrzedna</li>
   </ol>
-</pre>
+```
 
 <ol>
    <li>numeracja nadrzedna</li>
@@ -122,12 +123,12 @@ Silniki wyświetlania stron internetowych
     </ol>
    <li>numeracja nadrzedna</li>
   </ol>
-<br />
+
 
 ### HTML Tag (UL, LI)
 **Unorder List (Lista punktowana).**
 
-<pre>
+```html
 <ul>
  <li>nadrzedny</li>
    <ul>
@@ -138,7 +139,7 @@ Silniki wyświetlania stron internetowych
     <li>podrzedny</li>	
    </ul>
 </ul>
-</pre>
+```
 
 <ul>
  <li>nadrzedny</li>
@@ -159,14 +160,14 @@ Silniki wyświetlania stron internetowych
 
 **Describe Definition (Opis Definicji).**
 
-<pre>
+```
 <dl>
  <dt>hasło 1</dt> 
   <dd>opis1...</dd>
  <dt>haslo 2</dt>
   <dd>opis2...</dd>
 </dl>
-</pre>
+```
 
 <dl>
  <dt>hasło 1
@@ -181,13 +182,13 @@ Silniki wyświetlania stron internetowych
 
 **Non Breake space (spacja nie rozdzielajaca).**
 
-<pre>
+```
  <h1>Tytuł rozdziału</h1> 
  <p>tekst <br /> rozdziału</p>
  <br />
  <h1>Tytuł rozdzialu</h1>
  <p>tekst rozdzialu i&nbps;nowego rozdzialu</p>
-</pre>
+```
 <br />
 
 ### HTML Tag (SUP, SUB)
@@ -195,14 +196,14 @@ Silniki wyświetlania stron internetowych
 
 **Superscript (index górny).**
 
-<pre>
+```
  <p>100m<sup>2</sup> 
   <br/>
    10<sup>o</sup>C  
   <br/>
    H<sub>2</sub>O 
  </p>
-</pre>
+```
 
  <p>100m<sup>2</sup> 
   <br/>
@@ -219,12 +220,12 @@ Silniki wyświetlania stron internetowych
 
 **Figcaption (Podpis rysunku).**
 
-<pre>
+```
 <figure>
   <img src="/obrazek.jpg" alt="Opis obrazka">
   <figcaption>Pospis pod obrazkiem</figcaption>
 </figure>
-</pre>
+```
 
 ### HTML Tag (A)
 **Anchor (Kotwica).** 
@@ -235,7 +236,7 @@ Silniki wyświetlania stron internetowych
 * skrót zewnętrzny
 * skrót e-maiowy
 
-<pre>
+```
  <a href="http://www.nobleprog.pl" target="_blank">Copyright © www.NobleProg.pl</a>
 
  <a href="obrazki/obrazek.jpg">skrót do obrazka</a>
@@ -245,7 +246,7 @@ Silniki wyświetlania stron internetowych
  
  <a href="mailto:imie.nazwisko@serwer.pl">imie.nazwisko@serwer.pl</a> 
 
-</pre>
+```
 
 
 ### HTML Tag (TABLE, TH, TR, TD)
@@ -257,7 +258,7 @@ Silniki wyświetlania stron internetowych
 
 **Table Data (Komórka tabelki).**
 
-<pre>
+```html
 <table border="1"  cellpadding="3" cellspacing="5" summary="streszczeine zawartosci tabeli">
  <caption>tabelka opisujaca łączenie komorek wierszy i kolumn.</caption>
   <tr>
@@ -283,7 +284,7 @@ Silniki wyświetlania stron internetowych
    <td>dane2</td>
   </tr>
 </table>
-</pre>
+```
 
 <table border="1" summary="streszczeine zawartosci tabeli">
   <caption>tabelka opisujaca łączenie komorek wierszy i kolumn.</caption>
@@ -328,7 +329,7 @@ Silniki wyświetlania stron internetowych
 **Footer (sekcja stopki).**
 
 
-<pre>
+```
 <body>
  <header>
   <!-- hasla strony -->
@@ -348,28 +349,28 @@ Silniki wyświetlania stron internetowych
  </footer>
 
 </body>
-</pre>
+```
 
 ### HTML Tag (AUDIO)
 
-<pre>
+```
 <audio id="audio" controls>
  <source src="audio/audio.mp3" type="audio/mp3" />
  <source src="audio/audio.ogg" type="audio/ogg" />
  <source src="audio/audio.wmv" type="audio/wmv" />
  Twoja przegladakra nie obsługuje audio.
 </audio>
-</pre>
+```
 
 
 ### HTML Tag (VIDEO)
-<pre>
+```
 <video width="480" height="234" controls preload="false">
  <source src="../videos/video.mp4" type="video/mp4" />
  <source src="../videos/video.webm" type="video/webm" />
  Twoja przegladakra nie obsługuje wideo.
 </video>
-</pre>
+```
 
 ### HTML Tag (FORM, INPUT, TEXTAREA)
 **Form (Formularz).**
@@ -379,7 +380,7 @@ Silniki wyświetlania stron internetowych
 **Textarea (wprowadzanie wielowierszowe).**
 
 
-<pre>
+```
 <form name="form1" method="post" action="">
 
  <input name="email" type="text" id="email" accesskey="e" size="50"  required placeholder="twoj@email.pl" />
@@ -400,12 +401,12 @@ Silniki wyświetlania stron internetowych
 
  <input type="submit" name="submit" id="submit" value="wyslij">
 </form>
-</pre>
+```
 
 ## CSS Document Structure
 **(Cascade Style Sheet) - Kaskadowe akrusze stylów**
 
-<pre>
+```css
 /** Komentarze w programowaniu CSS **/
 
 
@@ -441,20 +442,19 @@ Silniki wyświetlania stron internetowych
       a:hover { color: red; }
       p:first-letter {color: red;}
 
-</pre>
+```
 
 ### CSS Link to css File
 
 **Html File**
 
-<pre>
+```
 <link href="css/glowny.css" rel="stylesheet" type="text/css" />
-
-</pre>
+```
 
 ### CSS Tag (*, BODY)
 
-<pre>
+```css
 * {
    margin: 0px;
 }
@@ -464,11 +464,11 @@ body {
    background-repeat: no-repeat;
 }
 
-</pre>
+```
 
 ### CSS (@import, @font-face, font-family)
 
-<pre>
+```css
 /** Podłączamy czcionkę **/
 @import url('../fonts/carto/carto.css');
 @import url('../fonts/theano/theano.css');
@@ -479,11 +479,11 @@ body {
    word-spacing: 2px;
 }
 
-</pre>
+```
 
 ### CSS Tag (H1-H6, P)
 
-<pre>
+```css
 h1 {
    font-family: TheanoOldStyleRegular, Verdana;
    font-size: 30px;
@@ -512,11 +512,11 @@ p {
    margin-bottom: 30px;
 }
 
-</pre>
+```
 
 ### CSS Tag (HEADER)
 
-<pre>
+```css
 header {
    float: left;	
    -webkit-transform: rotate(270deg) translate(-400px, -40px);
@@ -535,11 +535,11 @@ header h2 {
    font-size: 35px;
 }
 
-</pre>
+```
 
 ### CSS Tag,ID (NAV, #menu, #higlighted)
 
-<pre>
+```css
 a h1 {
    font-family: Verdana;
    font-size: 20px;
@@ -609,11 +609,11 @@ nav {
    border-radius: 10px;
    box-shadow: 2px 2px 6px rgba(20,20,20,0.3);
 }
-</pre>
+```
 
 ### CSS Tag, ID (DIV, #teksty)
 
-<pre>
+```css
 #teksty {
    margin-left: 240px;
    margin-right: 100px;
@@ -625,18 +625,18 @@ nav {
    top: 80px;
 }
 
-</pre>
+```
 
 ### CSS Tag (FOOTER)
 
-<pre>
+```css
 footer  {
   font-size: 10px;
   float: left;	
   margin-top: 713px;
   margin-left: 100px;
 }
-</pre>
+```
 
 ### CSS Class (A.MOUSE)
 
@@ -809,12 +809,6 @@ input, textarea {
 ### CSS Tag (AUDIO)
 ### CSS Tag (VIDEO)
 ### CSS Cascade Background
-
-
-## HTML5 dla poczatkujacych resources
-[HTML5 Szkolenia NobleProg](https://www.nobleprog.pl/szkolenia-html)
-
-[HTML5 website standard]([https://www.nobleprog.com/deepseek-training](https://html.spec.whatwg.org)
 
 
 
