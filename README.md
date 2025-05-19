@@ -1,8 +1,5 @@
 # HTML5 dla poczatkujacych
 
-
-{{Cat|HTML5}}
-
 ## How HTML and Browser Works
 
 '''(HyperText Markup Language) – hipertekstowy język znaczników'''
@@ -35,7 +32,7 @@ Silniki wyświetlania stron internetowych
 [[File:008-kontakt.jpg |300px]]
 [[File:009-av.jpg |300px]]
 
-== HTML Document Structure ==
+## HTML Document Structure
 <pre>
   <!DOCTYPE HTML>
   <html>
@@ -49,11 +46,11 @@ Silniki wyświetlania stron internetowych
   </html>
 </pre>
 
-=== HTML Tag (P) ===
+### HTML Tag (P)
 '''Paragraf - (Akapit).''' Służy do zaznaczania akapitów.
 <pre><p>Tekst ...</p></pre>
 
-=== HTML Tag (H1,...,H6) ===
+### HTML Tag (H1,...,H6)
 '''Hedline - (Nagłówek).''' Zaznaczamy tytuł rozdziału, podrozdzialu poziomu od 1 do 6.
 <pre>
  <h1>Tytuł</h1>
