@@ -3,7 +3,8 @@
 
 {{Cat|HTML5}}
 
-== How HTML and Browser Works ==
+## How HTML and Browser Works
+
 '''(HyperText Markup Language) – hipertekstowy język znaczników'''
 
 
@@ -14,13 +15,13 @@ Silniki wyświetlania stron internetowych
 * [http://pl.wikipedia.org/wiki/Presto_%28silnik_przegl%C4%85darki%29 Presto (Opera)]
 * [http://pl.wikipedia.org/wiki/Trident_%28silnik_przegl%C4%85darki%29 Trident (Internet Explorer)]
 
-== Editor for HTML ==
+## Editor for HTML
 * Edytorem do kodu HTML oraz CSS moze być każdy edytor tekstowy.
 * Dobrze jeżeli edytor koloruje nam kod strony łatwiej i szybciej będziemy wtedy tworzyć stronę.
 * Edytory Kodu HTML posiadają uzupełnianie kodu które bardzo przyspiesza proces pisania stron.
 * Edytory kodu mają dodatkowe progamy, w których wpisujemy tylko wartości a resztę kodu wypełnia automat.
 
-== What We Do ==
+## What We Do
 '''Stworzymy stronę WWW'''
 
 [[File:000-index.jpg |300px]]
