@@ -12,13 +12,13 @@ Silniki wyświetlania stron internetowych
 * [http://pl.wikipedia.org/wiki/Presto_%28silnik_przegl%C4%85darki%29 Presto (Opera)]
 * [http://pl.wikipedia.org/wiki/Trident_%28silnik_przegl%C4%85darki%29 Trident (Internet Explorer)]
 
-## Editor for HTML
+## Edytor dla HTML-a
 * Edytorem do kodu HTML oraz CSS moze być każdy edytor tekstowy.
 * Dobrze jeżeli edytor koloruje nam kod strony łatwiej i szybciej będziemy wtedy tworzyć stronę.
 * Edytory Kodu HTML posiadają uzupełnianie kodu które bardzo przyspiesza proces pisania stron.
 * Edytory kodu mają dodatkowe progamy, w których wpisujemy tylko wartości a resztę kodu wypełnia automat.
 
-## Co wykonmamy?
+## Co wykonamy?
 **Stworzymy stronę WWW**
 
 <img src="https://training-course-material.com/images/thumb/e/e3/000-index.jpg/300px-000-index.jpg" decoding="async" width="300" height="219"><img src="https://training-course-material.com/images/thumb/0/00/001-wino.jpg/300px-001-wino.jpg" decoding="async" width="300" height="221">
