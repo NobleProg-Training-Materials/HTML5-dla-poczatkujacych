@@ -22,23 +22,15 @@ Silniki wyświetlania stron internetowych
 **Stworzymy stronę WWW**
 
 <img src="https://training-course-material.com/images/thumb/e/e3/000-index.jpg/300px-000-index.jpg" decoding="async" width="300" height="219">
-[[File:000-index.jpg |300px]]
-
-[[File:002-proceswinifikacji.jpg |300px]]
-
-[[File:003-podzialwin.jpg |300px]]
-
-[[File:004-historia.jpg |300px]]
-
-[[File:005-glowniproducenci.jpg |300px]]
-
-[[File:006-ciekawostki.jpg |300px]]
-
-[[File:007-linki.jpg |300px]]
-
-[[File:008-kontakt.jpg |300px]]
-
-[[File:009-av.jpg |300px]]
+<img src="https://training-course-material.com/images/thumb/0/00/001-wino.jpg/300px-001-wino.jpg" decoding="async" width="300" height="221">
+<img src="https://training-course-material.com/images/thumb/b/bf/002-proceswinifikacji.jpg/300px-002-proceswinifikacji.jpg" decoding="async" width="300" height="221">
+<img src="https://training-course-material.com/images/thumb/6/68/003-podzialwin.jpg/300px-003-podzialwin.jpg" decoding="async" width="300" height="222">
+<img src="https://training-course-material.com/images/thumb/4/41/004-historia.jpg/300px-004-historia.jpg" decoding="async" width="300" height="221">
+<img src="https://training-course-material.com/images/thumb/c/cb/005-glowniproducenci.jpg/300px-005-glowniproducenci.jpg" decoding="async" width="300" height="221">
+<img src="https://training-course-material.com/images/thumb/1/11/006-ciekawostki.jpg/300px-006-ciekawostki.jpg" decoding="async" width="300" height="220">
+<img src="https://training-course-material.com/images/thumb/0/01/007-linki.jpg/300px-007-linki.jpg" decoding="async" width="300" height="223">
+<img src="https://training-course-material.com/images/thumb/8/83/008-kontakt.jpg/300px-008-kontakt.jpg" decoding="async" width="300" height="222">
+<img src="https://training-course-material.com/images/thumb/e/e1/009-av.jpg/300px-009-av.jpg" decoding="async" width="300" height="220">
 
 ## HTML Document Structure
 ```html
