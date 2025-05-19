@@ -1,8 +1,10 @@
 # HTML5 dla poczatkujacych
 
+# HTML5 dla poczatkujacych
+
 ## How HTML and Browser Works
 
-'''(HyperText Markup Language) – hipertekstowy język znaczników'''
+**(HyperText Markup Language) – hipertekstowy język znaczników**
 
 
 Silniki wyświetlania stron internetowych
@@ -18,8 +20,8 @@ Silniki wyświetlania stron internetowych
 * Edytory Kodu HTML posiadają uzupełnianie kodu które bardzo przyspiesza proces pisania stron.
 * Edytory kodu mają dodatkowe progamy, w których wpisujemy tylko wartości a resztę kodu wypełnia automat.
 
-## What We Do
-* Stworzymy stronę WWW *
+## Co wykonmamy?
+**Stworzymy stronę WWW**
 
 [[File:000-index.jpg |300px]]
 
@@ -54,11 +56,11 @@ Silniki wyświetlania stron internetowych
 </pre>
 
 ### HTML Tag (P)
-'''Paragraf - (Akapit).''' Służy do zaznaczania akapitów.
+**Paragraf - (Akapit).** Służy do zaznaczania akapitów.
 <pre><p>Tekst ...</p></pre>
 
 ### HTML Tag (H1,...,H6)
-'''Hedline - (Nagłówek).''' Zaznaczamy tytuł rozdziału, podrozdzialu poziomu od 1 do 6.
+**Hedline - (Nagłówek).** Zaznaczamy tytuł rozdziału, podrozdzialu poziomu od 1 do 6.
 <pre>
  <h1>Tytuł</h1>
  <h2>Rozdział</h2>
@@ -68,14 +70,14 @@ Silniki wyświetlania stron internetowych
 </pre>
 <br />
 
-=== HTML Tag (I, B, EM, STRONG) ===
-'''Italic (pochylony).'''
+### HTML Tag (I, B, EM, STRONG)
+**Italic (pochylony).**
 
-'''Bold (pogrubiony).''' 
+**Bold (pogrubiony).** 
 
-'''Emfasis (wyróznienie pochylenie).'''
+**Emfasis (wyróznienie pochylenie).**
 
-'''Strong (mocne wyróznienie tekstu pogrubienie).'''
+**Strong (mocne wyróznienie tekstu pogrubienie).**
 
 <pre>
  <i>tekst pochylony</i>
@@ -93,15 +95,15 @@ Silniki wyświetlania stron internetowych
 <strong>tekst mocno wyrózniony</strong>
 <br />
 
-=== HTML Tag (BLOCKUOTE, Q) ===
-'''Blockquote (Wcięcie).'''
+### HTML Tag (BLOCKUOTE, Q)
+**Blockquote (Wcięcie).**
 
-'''Q (Cytat).''' 
+**Q (Cytat).** 
 <pre>
 </pre>
 
-=== HTML Tag (OL, LI) ===
-'''Ordered List (Lista numerowana).'''
+### HTML Tag (OL, LI)
+**Ordered List (Lista numerowana).**
 
 <pre>
  <ol>
@@ -124,8 +126,8 @@ Silniki wyświetlania stron internetowych
   </ol>
 <br />
 
-=== HTML Tag (UL, LI) ===
-'''Unorder List (Lista punktowana).'''
+### HTML Tag (UL, LI)
+**Unorder List (Lista punktowana).**
 
 <pre>
 <ul>
@@ -152,12 +154,12 @@ Silniki wyświetlania stron internetowych
 </ul>
 <br />
 
-=== HTML Tag (DL, DT, DD) ===
-'''Definition List (Lista Definicji).'''
+### HTML Tag (DL, DT, DD)
+**Definition List (Lista Definicji).**
 
-'''Definition Terms (Hasło Definicji).'''
+**Definition Terms (Hasło Definicji).**
 
-'''Describe Definition (Opis Definicji).'''
+**Describe Definition (Opis Definicji).**
 
 <pre>
 <dl>
@@ -176,10 +178,10 @@ Silniki wyświetlania stron internetowych
 </dl>
 <br />
 
-=== HTML Tag (BR and non-breaking space) ===
-'''Brake Line (wstawianie wolnej lini entera).'''
+### HTML Tag (BR and non-breaking space)
+**Brake Line (wstawianie wolnej lini entera).**
 
-'''Non Breake space (spacja nie rozdzielajaca).'''
+**Non Breake space (spacja nie rozdzielajaca).**
 
 <pre>
  <h1>Tytuł rozdziału</h1> 
@@ -190,10 +192,10 @@ Silniki wyświetlania stron internetowych
 </pre>
 <br />
 
-=== HTML Tag (SUP, SUB) ===
-'''Subscript (index dolny).'''
+### HTML Tag (SUP, SUB)
+**Subscript (index dolny).**
 
-'''Superscript (index górny).'''
+**Superscript (index górny).**
 
 <pre>
  <p>100m<sup>2</sup> 
@@ -212,12 +214,12 @@ Silniki wyświetlania stron internetowych
  </p>
 <br />
 
-=== HTML Tag (IMG, FIGURE, FIGCAPTION) ===
-'''Image (Obrazek).'''
+### HTML Tag (IMG, FIGURE, FIGCAPTION)
+**Image (Obrazek).**
 
-'''Figure (rysunek, rysunki).'''
+**Figure (rysunek, rysunki).**
 
-'''Figcaption (Podpis rysunku).'''
+**Figcaption (Podpis rysunku).**
 
 <pre>
 <figure>
@@ -226,8 +228,8 @@ Silniki wyświetlania stron internetowych
 </figure>
 </pre>
 
-=== HTML Tag (A) ===
-'''Anchor (Kotwica).''' 
+### HTML Tag (A)
+**Anchor (Kotwica).** 
 
 * ścieżka całkowita (absolute) 
 * ścieżka względna (relative)
@@ -248,14 +250,14 @@ Silniki wyświetlania stron internetowych
 </pre>
 
 
-=== HTML Tag (TABLE, TH, TR, TD) ===
-'''Table (Tabelka).'''
+### HTML Tag (TABLE, TH, TR, TD)
+**Table (Tabelka).**
 
-'''Table Header (Nagłówek tabelki).'''
+**Table Header (Nagłówek tabelki).**
 
-'''Table Row (Wiersz tabelki).'''
+**Table Row (Wiersz tabelki).**
 
-'''Table Data (Komórka tabelki).'''
+**Table Data (Komórka tabelki).**
 
 <pre>
 <table border="1"  cellpadding="3" cellspacing="5" summary="streszczeine zawartosci tabeli">
@@ -318,14 +320,14 @@ Silniki wyświetlania stron internetowych
 </table>
 <br />
 
-=== HTML Tag (DIV, HEADER, NAV, FOOTER) ===
-'''Div (Ramka, sekcja dowolna).'''
+### HTML Tag (DIV, HEADER, NAV, FOOTER)
+**Div (Ramka, sekcja dowolna).**
 
-'''Header (sekcja nagłówka).'''
+**Header (sekcja nagłówka).**
 
-'''Navigation (sekcja nawigacyjna).'''
+**Navigation (sekcja nawigacyjna).**
 
-'''Footer (sekcja stopki).'''
+**Footer (sekcja stopki).**
 
 
 <pre>
@@ -350,7 +352,7 @@ Silniki wyświetlania stron internetowych
 </body>
 </pre>
 
-=== HTML Tag (AUDIO) ===
+### HTML Tag (AUDIO)
 
 <pre>
 <audio id="audio" controls>
@@ -362,7 +364,7 @@ Silniki wyświetlania stron internetowych
 </pre>
 
 
-=== HTML Tag (VIDEO) ===
+### HTML Tag (VIDEO)
 <pre>
 <video width="480" height="234" controls preload="false">
  <source src="../videos/video.mp4" type="video/mp4" />
@@ -371,12 +373,12 @@ Silniki wyświetlania stron internetowych
 </video>
 </pre>
 
-=== HTML Tag (FORM, INPUT, TEXTAREA) ===
-'''Form (Formularz).'''
+### HTML Tag (FORM, INPUT, TEXTAREA)
+**Form (Formularz).**
 
-'''Input (wprowadzanie danych).'''
+**Input (wprowadzanie danych).**
 
-'''Textarea (wprowadzanie wielowierszowe).'''
+**Textarea (wprowadzanie wielowierszowe).**
 
 
 <pre>
@@ -402,11 +404,11 @@ Silniki wyświetlania stron internetowych
 </form>
 </pre>
 
-== CSS Document Structure ==
-'''(Cascade Style Sheet) - Kaskadowe akrusze stylów'''
+## CSS Document Structure
+**(Cascade Style Sheet) - Kaskadowe akrusze stylów**
 
 <pre>
-/* Komentarze w programowaniu CSS */
+/** Komentarze w programowaniu CSS **/
 
 
 /* selektor elementów */
@@ -443,16 +445,16 @@ Silniki wyświetlania stron internetowych
 
 </pre>
 
-=== CSS Link to css File ===
+### CSS Link to css File
 
-'''Html File'''
+**Html File**
 
 <pre>
 <link href="css/glowny.css" rel="stylesheet" type="text/css" />
 
 </pre>
 
-=== CSS Tag (*, BODY) ===
+### CSS Tag (*, BODY)
 
 <pre>
 * {
@@ -466,10 +468,10 @@ body {
 
 </pre>
 
-=== CSS (@import, @font-face, font-family) ===
+### CSS (@import, @font-face, font-family)
 
 <pre>
-/* Podłączamy czcionkę */
+/** Podłączamy czcionkę **/
 @import url('../fonts/carto/carto.css');
 @import url('../fonts/theano/theano.css');
 
@@ -481,7 +483,7 @@ body {
 
 </pre>
 
-=== CSS Tag (H1-H6, P) ===
+### CSS Tag (H1-H6, P)
 
 <pre>
 h1 {
@@ -514,7 +516,7 @@ p {
 
 </pre>
 
-=== CSS Tag (HEADER) ===
+### CSS Tag (HEADER)
 
 <pre>
 header {
@@ -537,7 +539,7 @@ header h2 {
 
 </pre>
 
-=== CSS Tag,ID (NAV, #menu, #higlighted) ===
+### CSS Tag,ID (NAV, #menu, #higlighted)
 
 <pre>
 a h1 {
@@ -611,7 +613,7 @@ nav {
 }
 </pre>
 
-=== CSS Tag, ID (DIV, #teksty) ===
+### CSS Tag, ID (DIV, #teksty)
 
 <pre>
 #teksty {
@@ -627,7 +629,7 @@ nav {
 
 </pre>
 
-=== CSS Tag (FOOTER) ===
+### CSS Tag (FOOTER)
 
 <pre>
 footer  {
@@ -638,7 +640,7 @@ footer  {
 }
 </pre>
 
-=== CSS Class (A.MOUSE) ===
+### CSS Class (A.MOUSE)
 
 <pre>
 a.mouse {
@@ -649,7 +651,7 @@ a.mouse {
 
 </pre>
 
-=== CSS Tag (IMG, FIGCAPTION, FIGURE) ===
+### CSS Tag (IMG, FIGCAPTION, FIGURE)
 
 <pre>
 img {
@@ -678,7 +680,7 @@ figcaption {
 
 </pre>
 
-=== CSS Tag (OL, UL, LI) ===
+### CSS Tag (OL, UL, LI)
 
 <pre>
 ol {
@@ -696,7 +698,7 @@ li {
 
 </pre>
 
-=== CSS Tag (DL, DT, DD) ===
+### CSS Tag (DL, DT, DD)
 <pre>
 dt {
    font-weight: bold;
@@ -710,7 +712,7 @@ dd {
 
 </pre>
 
-=== CSS Tag, Pseudo-Class (A, :LINK, :VISITED, :FOCUSED, :HOVER) ===
+### CSS Tag, Pseudo-Class (A, :LINK, :VISITED, :FOCUSED, :HOVER)
 
 <pre>
 a:link  {
@@ -731,7 +733,7 @@ a:hover {
 
 </pre>
 
-=== CSS Tag (TABLE, TH, TR, TD) ===
+### CSS Tag (TABLE, TH, TR, TD)
 
 <pre>
 table {
@@ -763,7 +765,7 @@ td li {
 
 </pre>
 
-=== CSS Tag (EM, Q, BLACKQUOTE) ===
+### CSS Tag (EM, Q, BLACKQUOTE)
 <pre>
 em q  {
    font-family: 'Just Another Hand', Verdana;
@@ -779,7 +781,7 @@ blockquote {
 
 </pre>
 
-=== CSS Tag,Attribute (INPUT, TEXTAREA),(Type)===
+### CSS Tag,Attribute (INPUT, TEXTAREA),(Type)
 <pre>
 input[type="text"], #text, input[type="date"] {
    opacity: 0.3;
@@ -806,9 +808,15 @@ input, textarea {
 }
 </pre>
 
-=== CSS Tag (AUDIO) ===
-=== CSS Tag (VIDEO) ===
-=== CSS Cascade Background ===
+### CSS Tag (AUDIO)
+### CSS Tag (VIDEO)
+### CSS Cascade Background
+
+
+## HTML5 dla poczatkujacych resources
+[HTML5 Szkolenia NobleProg](https://www.nobleprog.pl/szkolenia-html)
+
+[HTML5 website standard]([https://www.nobleprog.com/deepseek-training](https://html.spec.whatwg.org)
 
 
 
