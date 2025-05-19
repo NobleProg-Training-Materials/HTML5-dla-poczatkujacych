@@ -79,7 +79,7 @@ Silniki wyświetlania stron internetowych
 
 **Strong (mocne wyróznienie tekstu pogrubienie).**
 
-```
+```html
  <i>tekst pochylony</i>
  <b>tekst pogrubiony</b>
  <em>tekst wyrózniony</em>
@@ -160,7 +160,7 @@ Silniki wyświetlania stron internetowych
 
 **Describe Definition (Opis Definicji).**
 
-```
+```html
 <dl>
  <dt>hasło 1</dt> 
   <dd>opis1...</dd>
@@ -182,7 +182,7 @@ Silniki wyświetlania stron internetowych
 
 **Non Breake space (spacja nie rozdzielajaca).**
 
-```
+```html
  <h1>Tytuł rozdziału</h1> 
  <p>tekst <br /> rozdziału</p>
  <br />
@@ -196,7 +196,7 @@ Silniki wyświetlania stron internetowych
 
 **Superscript (index górny).**
 
-```
+```html
  <p>100m<sup>2</sup> 
   <br/>
    10<sup>o</sup>C  
@@ -220,7 +220,7 @@ Silniki wyświetlania stron internetowych
 
 **Figcaption (Podpis rysunku).**
 
-```
+```html
 <figure>
   <img src="/obrazek.jpg" alt="Opis obrazka">
   <figcaption>Pospis pod obrazkiem</figcaption>
@@ -236,7 +236,7 @@ Silniki wyświetlania stron internetowych
 * skrót zewnętrzny
 * skrót e-maiowy
 
-```
+```html
  <a href="http://www.nobleprog.pl" target="_blank">Copyright © www.NobleProg.pl</a>
 
  <a href="obrazki/obrazek.jpg">skrót do obrazka</a>
@@ -329,7 +329,7 @@ Silniki wyświetlania stron internetowych
 **Footer (sekcja stopki).**
 
 
-```
+```html
 <body>
  <header>
   <!-- hasla strony -->
@@ -353,7 +353,7 @@ Silniki wyświetlania stron internetowych
 
 ### HTML Tag (AUDIO)
 
-```
+```html
 <audio id="audio" controls>
  <source src="audio/audio.mp3" type="audio/mp3" />
  <source src="audio/audio.ogg" type="audio/ogg" />
@@ -364,7 +364,7 @@ Silniki wyświetlania stron internetowych
 
 
 ### HTML Tag (VIDEO)
-```
+```html
 <video width="480" height="234" controls preload="false">
  <source src="../videos/video.mp4" type="video/mp4" />
  <source src="../videos/video.webm" type="video/webm" />
@@ -380,7 +380,7 @@ Silniki wyświetlania stron internetowych
 **Textarea (wprowadzanie wielowierszowe).**
 
 
-```
+```html
 <form name="form1" method="post" action="">
 
  <input name="email" type="text" id="email" accesskey="e" size="50"  required placeholder="twoj@email.pl" />
@@ -448,7 +448,7 @@ Silniki wyświetlania stron internetowych
 
 **Html File**
 
-```
+```html
 <link href="css/glowny.css" rel="stylesheet" type="text/css" />
 ```
 
@@ -640,18 +640,18 @@ footer  {
 
 ### CSS Class (A.MOUSE)
 
-<pre>
+```css
 a.mouse {
    background-image: url(../obrazki/mouse.png); 
    background-repeat: no-repeat;
    background-position: right;
 }
 
-</pre>
+```
 
 ### CSS Tag (IMG, FIGCAPTION, FIGURE)
 
-<pre>
+```css
 img {
    float: right;
    margin: 15px;
@@ -676,11 +676,11 @@ figcaption {
 	font-size: 20px;
 }
 
-</pre>
+```
 
 ### CSS Tag (OL, UL, LI)
 
-<pre>
+```css
 ol {
    font-weight: bolder;
 }
@@ -694,10 +694,10 @@ li {
    padding-bottom: 5px;
 }
 
-</pre>
+```
 
 ### CSS Tag (DL, DT, DD)
-<pre>
+```css
 dt {
    font-weight: bold;
    font-size: 14px;
@@ -708,11 +708,11 @@ dd {
    padding-bottom: 15px;
 }
 
-</pre>
+```
 
 ### CSS Tag, Pseudo-Class (A, :LINK, :VISITED, :FOCUSED, :HOVER)
 
-<pre>
+```css
 a:link  {
 	color: #777;
 }
@@ -729,11 +729,11 @@ a:hover {
 	text-decoration: none;
 }
 
-</pre>
+```
 
 ### CSS Tag (TABLE, TH, TR, TD)
 
-<pre>
+```css
 table {
    border: 0px;  
    margin: 0px;
@@ -761,10 +761,10 @@ td li {
    margin-left: 15px;
 }
 
-</pre>
+```
 
 ### CSS Tag (EM, Q, BLACKQUOTE)
-<pre>
+```css
 em q  {
    font-family: 'Just Another Hand', Verdana;
    font-family: ;
@@ -776,11 +776,10 @@ blockquote {
   text-align: right;
   padding-right: 250px;
 }
-
-</pre>
+```
 
 ### CSS Tag,Attribute (INPUT, TEXTAREA),(Type)
-<pre>
+```css
 input[type="text"], #text, input[type="date"] {
    opacity: 0.3;
    border: 1px solid #b76a7f;
@@ -804,7 +803,7 @@ input, textarea {
    box-shadow: 1px 1px 3px rgba(20,20,20,0.3);
    text-shadow: 1px 1px 3px rgba(10,10,10,0.5);
 }
-</pre>
+```
 
 ### CSS Tag (AUDIO)
 ### CSS Tag (VIDEO)
