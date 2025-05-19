@@ -23,7 +23,7 @@ Silniki wyświetlania stron internetowych
 
 (https://training-course-material.com/images/e/e3/000-index.jpg)
 
-[[File:001-wino.jpg |300px]]
+[[File:000-index.jpg |300px]]
 
 [[File:002-proceswinifikacji.jpg |300px]]
 
