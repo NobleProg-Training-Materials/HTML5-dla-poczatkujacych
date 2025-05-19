@@ -19,7 +19,7 @@ Silniki wyświetlania stron internetowych
 * Edytory kodu mają dodatkowe progamy, w których wpisujemy tylko wartości a resztę kodu wypełnia automat.
 
 ## What We Do
-** Stworzymy stronę WWW **
+* Stworzymy stronę WWW *
 
 [[File:000-index.jpg |300px]]
 
