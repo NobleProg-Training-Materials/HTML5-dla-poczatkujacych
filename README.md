@@ -21,8 +21,7 @@ Silniki wyświetlania stron internetowych
 ## Co wykonmamy?
 **Stworzymy stronę WWW**
 
-<img src="https://training-course-material.com/images/thumb/e/e3/000-index.jpg/300px-000-index.jpg" decoding="async" width="300" height="219">
-<img src="https://training-course-material.com/images/thumb/0/00/001-wino.jpg/300px-001-wino.jpg" decoding="async" width="300" height="221">
+<img src="https://training-course-material.com/images/thumb/e/e3/000-index.jpg/300px-000-index.jpg" decoding="async" width="300" height="219"><img src="https://training-course-material.com/images/thumb/0/00/001-wino.jpg/300px-001-wino.jpg" decoding="async" width="300" height="221">
 <img src="https://training-course-material.com/images/thumb/b/bf/002-proceswinifikacji.jpg/300px-002-proceswinifikacji.jpg" decoding="async" width="300" height="221">
 <img src="https://training-course-material.com/images/thumb/6/68/003-podzialwin.jpg/300px-003-podzialwin.jpg" decoding="async" width="300" height="222">
 <img src="https://training-course-material.com/images/thumb/4/41/004-historia.jpg/300px-004-historia.jpg" decoding="async" width="300" height="221">
