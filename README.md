@@ -1,1 +1,1 @@
-# HTML5-dla-poczatkujacych
+# HTML5 dla poczatkujacych
