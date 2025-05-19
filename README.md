@@ -21,6 +21,7 @@ Silniki wyświetlania stron internetowych
 ## Co wykonmamy?
 **Stworzymy stronę WWW**
 
+<img src="https://training-course-material.com/images/thumb/e/e3/000-index.jpg/300px-000-index.jpg" decoding="async" width="300" height="219">
 [[File:000-index.jpg |300px]]
 
 [[File:002-proceswinifikacji.jpg |300px]]
