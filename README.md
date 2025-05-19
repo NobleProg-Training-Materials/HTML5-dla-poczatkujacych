@@ -810,8 +810,7 @@ input, textarea {
 ### CSS Cascade Background
 
 
-
 ## HTML5 dla poczatkujacych resources
-[HTML5 Szkolenia NobleProg](https://www.nobleprog.pl/szkolenia-html)
+[HTML5 Szkolenia | NobleProg](https://www.nobleprog.pl/szkolenia-html)
 
-[HTML5 website standard]([https://www.nobleprog.com/deepseek-training](https://html.spec.whatwg.org)
+[HTML5 website standard](https://html.spec.whatwg.org)
